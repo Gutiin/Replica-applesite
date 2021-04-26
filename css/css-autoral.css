@@ -1,5 +1,6 @@
 html, body {
     text-align: center;
+    
 }
 .nav-item{
  padding: 0 40px;
@@ -12,7 +13,7 @@ html, body {
 }
 /*-----------------------------------------------------------------------------------------------*/
 .imac{
-    padding-top: 80px;
+    padding-top: 150px;
     padding-bottom: 50px;
     background-color: #FAFAFA;
     font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
@@ -31,10 +32,7 @@ html, body {
     text-decoration: none;
     padding: 20px;
 }
-.imac img{
-    margin-left: 60px;
-    
-}
+
 /*-----------------------------------------------------------------------------------------------*/
 .iphone12{
     font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
@@ -58,9 +56,7 @@ html, body {
     text-decoration: none;
     padding: 20px;
 }
-.iphone12 img{
-    margin-bottom: 35px;
-}
+
 /*-----------------------------------------------------------------------------------------------*/
 .iphone12pro{
     font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
@@ -80,22 +76,18 @@ html, body {
     text-decoration: none;
     padding: 20px;
 }
-.iphone12pro img{
-    margin-left: 100px;
-}
 /*-----------------------------------------------------------------------------------------------*/
 .table{
     font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
     max-width: auto;
     margin-right: 2px;
+    font-size: fluid;
    
 }
 .table td{
     border-top: 10px solid white;
     border-right: 10px solid white;
     border-left: 10px solid white;
-    margin-right: auto;
-
 }
 .table h1{
     font-size: 30px;
