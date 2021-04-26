@@ -1,6 +1,5 @@
-body{
+html, body {
     text-align: center;
-    
 }
 .nav-item{
  padding: 0 40px;
@@ -11,9 +10,10 @@ body{
     background: rgba(29, 29, 29, 0.92);
 
 }
+/*-----------------------------------------------------------------------------------------------*/
 .imac{
     padding-top: 80px;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
     background-color: #FAFAFA;
     font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
@@ -32,6 +32,100 @@ body{
     padding: 20px;
 }
 .imac img{
-    margin-laft: 60px;
+    margin-left: 60px;
     
+}
+/*-----------------------------------------------------------------------------------------------*/
+.iphone12{
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    background-color: #EFE5FE; 
+}
+
+.iphone12 h1{
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: -10px;
+}
+.iphone12 h2{
+    font-size: 25px;
+    margin-top: 4px;
+    font-weight: 100;
+}
+.iphone12 p{
+    color: rgb(157, 157, 157);
+}
+.iphone12 a{
+    text-decoration: none;
+    padding: 20px;
+}
+.iphone12 img{
+    margin-bottom: 35px;
+}
+/*-----------------------------------------------------------------------------------------------*/
+.iphone12pro{
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    background-color: black;
+}
+.iphone12pro h1{
+    padding-top: 5px;
+    color: white;
+    font-weight: 100;
+    font-size: 50px;
+}
+.iphone12pro h2{
+    color: white;
+    font-size: 25px;
+}
+.iphone12pro a{
+    text-decoration: none;
+    padding: 20px;
+}
+.iphone12pro img{
+    margin-left: 100px;
+}
+/*-----------------------------------------------------------------------------------------------*/
+.table{
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    max-width: auto;
+    margin-right: 2px;
+   
+}
+.table td{
+    border-top: 10px solid white;
+    border-right: 10px solid white;
+    border-left: 10px solid white;
+    margin-right: auto;
+
+}
+.table h1{
+    font-size: 30px;
+    color: white;
+}
+.table h2{
+    font-size: 20px;
+    color: white;
+
+}
+.table h6{
+    color: #94161E;
+    font-size: 10px;
+}
+.table p{
+    color:rgb(157, 157, 157);
+}
+.table a{
+    text-decoration: none;
+    padding: 20px;
+}
+/*-----------------------------------------------------------------------------------------------*/
+.copy{
+    background-color: rgba(29, 29, 29, 0.92);
+    height: 100px;
+    color: white;
+
+}
+.copy p{
+    padding-top: 30px;
+    margin: 0;
+    letter-spacing: 4px;
 }
